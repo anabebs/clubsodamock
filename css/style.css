@@ -11,12 +11,22 @@ html,body{
 }
 
 .navbar{
-  padding: .8rem;
+  padding: rem;
+    width: 100vw;
 
 }
 
 .navbar-nav li{
   padding-right: 10px;
+
+}
+
+
+
+
+
+.brand{
+width:170px;
 
 }
 
@@ -88,8 +98,9 @@ footer{
   background-color:#ffffaa;
   color: #FF69B4;
   padding-top: 5rem;
-  width: 100%;
+  width: 100vw;
   margin-top: 5rem;
+  margin: auto 0;
 
 
 
@@ -98,7 +109,9 @@ footer{
 
 .navabar-toggler {
   display:none;
+  color:#FF69B4;
 }
+
 
 .h3{
   text-align: !important center;
@@ -128,15 +141,31 @@ footer{
 }
 /*---Media Queries --*/
 @media (max-width: 992px) {
+  #search{
+    display: none;
+
+  }
   }
 @media (max-width: 768px) {
   .navabar-toggler {
     display:block;
+
   }
-}
-@media (max-width: 576px) {
 
 }
+@media (max-width: 576px) {
+  .form-group{
+    display:none;
+  }
+  .brand{
+    float:right;
+  }
+}
+
+/* Extra Small Devices, Phones */
+
+
+
 
 
 /*---Firefox Bug Fix --*/

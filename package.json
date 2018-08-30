@@ -1,0 +1,22 @@
+{
+  "name": "mockup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anabebs/clubsodamock.git"
+  },
+  "author": "Ana Bebic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anabebs/clubsodamock/issues"
+  },
+  "homepage": "https://github.com/anabebs/clubsodamock#readme",
+  "dependencies": {
+    "bootstrapp": "0.0.0"
+  }
+}
