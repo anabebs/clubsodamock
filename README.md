@@ -3,7 +3,6 @@
 ![Desktop](https://raw.githubusercontent.com/anabebs/clubsodamock/master/images/Screen%20Shot%202018-08-30%20at%2010.28.43.png)
     
 
-![Mobile](https://raw.githubusercontent.com/anabebs/clubsodamock/master/images/Screen%20Shot%202018-08-30%20at%2010.28.57.png)
 
 
 ## Description
