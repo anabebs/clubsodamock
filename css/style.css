@@ -136,19 +136,35 @@ footer{
 
 .card{
   border:none;
-
-  }
 }
+
+.search-icon {
+  display: none;
+
+}
+
+.hamburger{
+  height:30px;
+}
+.navabar-toggler {
+background: transparent;
+border:none;
+}
+
 /*---Media Queries --*/
 @media (max-width: 992px) {
-  #search{
-    display: none;
+  }
 
-  }
-  }
 @media (max-width: 768px) {
   .navabar-toggler {
     display:block;
+
+  }
+  .navbar-brand{
+    margin-right:0;
+  }
+  .search-icon{
+    display: block;
 
   }
 
