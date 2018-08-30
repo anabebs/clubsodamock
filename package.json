@@ -1,7 +1,6 @@
 {
   "name": "mockup",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,6 +16,12 @@
   },
   "homepage": "https://github.com/anabebs/clubsodamock#readme",
   "dependencies": {
-    "bootstrapp": "0.0.0"
-  }
+    "bootstrap": "^4.1.3",
+    "bootstrapp": "0.0.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.4",
+    "sass": "^1.13.0"
+  },
+  "devDependencies": {},
+  "description": ""
 }
